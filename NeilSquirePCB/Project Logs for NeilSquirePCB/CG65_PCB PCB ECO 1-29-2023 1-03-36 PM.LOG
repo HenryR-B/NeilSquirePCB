@@ -1,0 +1,7 @@
+Change Component Comment : Designator=R3 Old Comment=24kR New Comment=220 Ohms
+Change Component Comment : Designator=R1 Old Comment=65R New Comment=220 Ohms
+Change Component Comment : Designator=R2 Old Comment=65R New Comment=220 Ohms
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=R2-2
+Added Net: Name=NetD2_2

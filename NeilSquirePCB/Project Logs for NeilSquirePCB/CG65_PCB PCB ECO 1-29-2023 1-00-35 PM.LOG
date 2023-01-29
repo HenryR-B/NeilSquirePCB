@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Member From Class: ClassName=CG65_Schematics Member=BZ1
+Removed Member From Class: ClassName=CG65_Schematics Member=R4
+Removed Member From Class: ClassName=CG65_Schematics Member=R5
+Change Component Comment : Designator=R2 Old Comment=220 Ohms New Comment=65R
+Add Pin To Net: Unknown Pin: Pin D1-0
+Add Pin To Net: Unknown Pin: Pin D2-0

@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\henry\Documents\Documents\University\GitHub\NeilSquirePCB\CG65_PCB.PcbDoc
+Date         : 1/29/2023
+Time         : 1:47:22 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 54.61mmx85.344mm
+    Components on board, 11
+count : 2

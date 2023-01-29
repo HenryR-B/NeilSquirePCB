@@ -1,0 +1,156 @@
+Added Component: Designator=BZ1(AI-3035-TWT-3V-R)
+Add component (AddParameter): Name = "Category"; Value = "Audio Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/8113/ai-3035-twt-3v-r-8113514.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/8113/ai-3035-twt-3v-r-8113514.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/4623/ai-3035-twt-3v-r-63144-4623167.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/4623/ai-3035-twt-3v-r-63144-4623167.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/0/ai-3035-twt-3v-r-348.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/0/ai-3035-twt-3v-r-348.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "9mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "30mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "3.5kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "30mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Projects Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AI-3035-TWT-3V-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "80°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Current"; Value = "9mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage (DC)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage (DC)"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "9mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2.78000, 10=2.30300, 25=2.12600, 50=1.99760, 100=1.87400, 450=1.60551, 950=1.58793 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "AI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "14193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "668-1204-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "30mm"; VariantName = "[No Variations]"
+Added Component: Designator=C1(TH CAPACITOR)
+Added Component: Designator=D1(LED TH)
+Added Component: Designator=D2(LED TH)
+Added Component: Designator=J1(MJ-3502N)
+Add component (AddParameter): Name = "Body Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.cui.com/product/resource/digikeypdf/mj-3502.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.cui.com/product/resource/digikeypdf/mj-3502.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MJ-3502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole,Panel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Conductors"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CP-3502MJ-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=J2(1x4 Standard Header)
+Added Component: Designator=J3(MOLEX_436500427)
+Added Component: Designator=R1(TH Resistor)
+Added Component: Designator=R2(TH Resistor)
+Added Component: Designator=R3(TH Resistor)
+Added Component: Designator=R4(TH Resistor)
+Added Component: Designator=R5(TH Resistor)
+Added Component: Designator=U1(ESP32-PICO-KIT)
+Add component (AddParameter): Name = "Category"; Value = "RF Semiconductors and Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://esp-idf.readthedocs.io/en/latest/get-started/get-started-pico-kit.html?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://esp-idf.readthedocs.io/en/latest/get-started/get-started-pico-kit.html?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "2.4GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESP32-PICO-KIT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=10.00000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "467"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1904-1030-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SEN-13879)
+Add component (AddParameter): Name = "Manufacturer"; Value = "SparkFun"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SEN-13879"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-45°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "1.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=10.95000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1568-1436-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C1-2
+Added Pin To Net: NetName=3.3V Pin=R2-1
+Added Pin To Net: NetName=3.3V Pin=U1-J2_20
+Added Pin To Net: NetName=3.3V Pin=U1-J3_18
+Added Pin To Net: NetName=3.3V Pin=U2-10
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=U1-J3_20
+Added Pin To Net: NetName=5V Pin=U2-9
+Added Net: Name=5V
+Added Pin To Net: NetName=BLK Pin=J2-3
+Added Pin To Net: NetName=BLK Pin=J3-3
+Added Pin To Net: NetName=BLK Pin=U2-2
+Added Net: Name=BLK
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=U1-J2_19
+Added Pin To Net: NetName=GND Pin=U1-J3_19
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Net: Name=GND
+Added Pin To Net: NetName=GRN Pin=J2-1
+Added Pin To Net: NetName=GRN Pin=J3-1
+Added Pin To Net: NetName=GRN Pin=U2-4
+Added Net: Name=GRN
+Added Pin To Net: NetName=IO4 Pin=C1-1
+Added Pin To Net: NetName=IO4 Pin=J1-1
+Added Pin To Net: NetName=IO4 Pin=J1-2
+Added Pin To Net: NetName=IO4 Pin=R1-1
+Added Pin To Net: NetName=IO4 Pin=R3-2
+Added Pin To Net: NetName=IO4 Pin=U1-J3_16
+Added Net: Name=IO4
+Added Pin To Net: NetName=IO12 Pin=R4-2
+Added Pin To Net: NetName=IO12 Pin=U1-J3_12
+Added Net: Name=IO12
+Added Pin To Net: NetName=IO25 Pin=U1-J3_6
+Added Pin To Net: NetName=IO25 Pin=U2-8
+Added Net: Name=IO25
+Added Pin To Net: NetName=IO26 Pin=U1-J3_7
+Added Pin To Net: NetName=IO26 Pin=U2-7
+Added Net: Name=IO26
+Added Pin To Net: NetName=NetBZ1_P$2 Pin=BZ1-P$2
+Added Pin To Net: NetName=NetBZ1_P$2 Pin=R4-1
+Added Pin To Net: NetName=NetBZ1_P$2 Pin=R5-2
+Added Net: Name=NetBZ1_P$2
+Added Pin To Net: NetName=NetD1_0 Pin=R1-2
+Added Net: Name=NetD1_0
+Added Pin To Net: NetName=NetD2_0 Pin=R2-2
+Added Net: Name=NetD2_0
+Added Pin To Net: NetName=RED Pin=J2-4
+Added Pin To Net: NetName=RED Pin=J3-4
+Added Pin To Net: NetName=RED Pin=U2-1
+Added Net: Name=RED
+Added Pin To Net: NetName=WHT Pin=J2-2
+Added Pin To Net: NetName=WHT Pin=J3-2
+Added Pin To Net: NetName=WHT Pin=U2-3
+Added Net: Name=WHT
+Added Class: Name=CG65_Schematics
+Added Room: Name=CG65_Schematics
