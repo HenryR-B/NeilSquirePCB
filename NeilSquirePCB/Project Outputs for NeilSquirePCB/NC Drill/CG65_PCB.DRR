@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CG65_PCB.PcbDoc   1/30/2023  5:23:03 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CG65_PCB-RoundHoles.TXT
+ASCII SlotHoles File : CG65_PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      35mil (0.889mm)                                           Round             4         PTH        0.30inch (7.62mm)
+T2      40mil (1.016mm)                                           Round             62        PTH        13.32inch (338.24mm)
+T3      40mil (1.021mm)                                           Round             4         PTH        0.35inch (9.00mm)
+T4      47mil (1.199mm)                                           Slot              3         PTH        1.04inch (26.40mm)
+T5      50mil (1.27mm)                                            Round             2         NPTH       0.59inch (15.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              75
+
+Total Processing Time (hh:mm:ss) : 00:00:00

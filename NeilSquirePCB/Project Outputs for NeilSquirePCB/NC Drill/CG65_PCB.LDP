@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\henry\Documents\Documents\University\GitHub\NeilSquirePCB\NeilSquirePCB\CG65_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=cg65_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=cg65_pcb-slotholes.txt|DrillLayers=gtl,gbl
