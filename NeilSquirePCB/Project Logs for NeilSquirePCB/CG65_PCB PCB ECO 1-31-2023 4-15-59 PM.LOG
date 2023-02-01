@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=IO4 Pin=R1-1
+Removed Pin From Net: NetName=IO4 Pin=U1-J3_16
+Change Component Comment : Designator=R3 Old Comment=24kR New Comment=4.7k
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Added Component: Designator=C1(TH CAPACITOR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "74X9713"; VariantName = "[No Variations]"
+Added Component: Designator=C3(TH CAPACITOR)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "74X9713"; VariantName = "[No Variations]"
+Added Component: Designator=R3(TH Resistor)
+Added Pin To Net: NetName=IO4 Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C1-2
+Added Pin To Net: NetName=IO4 Pin=C3-1
+Added Pin To Net: NetName=3.3V Pin=C3-2
+Added Pin To Net: NetName=IO4 Pin=R3-1
+Change Net Name : Old Net Name=IO4 New Net Name=NetC1_1
+Added Pin To Net: NetName=IO4 Pin=R1-1
+Added Pin To Net: NetName=IO4 Pin=R3-2
+Added Pin To Net: NetName=IO4 Pin=U1-J3_16
+Added Net: Name=IO4
+Added Member To Class: ClassName=CG65_Schematics Member=Component C2 0.33uF
+Added Member To Class: ClassName=CG65_Schematics Member=Component C3 0.33uF
+Added Member To Class: ClassName=CG65_Schematics Member=Component R4 4.7k

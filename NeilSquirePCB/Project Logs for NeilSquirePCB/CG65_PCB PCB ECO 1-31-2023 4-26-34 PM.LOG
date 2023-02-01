@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=IO4 Pin=R1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=R1-2
+Removed Pin From Net: NetName=3.3V Pin=R2-1
+Removed Pin From Net: NetName=NetD2_2 Pin=R2-2
+Change Component Comment : Designator=D1 Old Comment=LED Blue New Comment=LED
+Change Component Comment : Designator=D2 Old Comment=LED Green New Comment=LED
+Added Pin To Net: NetName=NetD1_2 Pin=R1-1
+Added Pin To Net: NetName=IO4 Pin=R1-2
+Added Pin To Net: NetName=NetD2_2 Pin=R2-1
+Added Pin To Net: NetName=3.3V Pin=R2-2

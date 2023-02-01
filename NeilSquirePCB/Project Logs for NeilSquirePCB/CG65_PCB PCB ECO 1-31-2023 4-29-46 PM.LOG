@@ -1,0 +1,13 @@
+Added Component: Designator=U3(ESP32-PICO-KIT)
+Add component (AddParameter): Name = "Category"; Value = "RF Semiconductors and Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://esp-idf.readthedocs.io/en/latest/get-started/get-started-pico-kit.html?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://esp-idf.readthedocs.io/en/latest/get-started/get-started-pico-kit.html?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "2.4GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESP32-PICO-KIT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=10.00000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "467"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1904-1030-ND"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CG65_Schematics Member=Component U3 ESP32-PICO-D4
