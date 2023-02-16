@@ -1,0 +1,20 @@
+Added Component: Designator=J?(SM04B-SURS-TF(LF)(SN))
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "455-3589-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "455-3589-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "455-3589-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "SM04B-SURS-TF(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SM04B-SURS-TF(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CN 4POS JST SUR RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-3589-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "38K7687"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 1"; Value = "https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SM04B-SURS-TF-LF-SN/7230518?s=N4IgTCBcDaICwFYEFoDMCAcBOZBGZAcgCIgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier URL 2"; Value = "https://canada.newark.com/jst-japan-solderless-terminals/sm04b-surs-tf-lf-sn/wire-board-connector-header-4/dp/38K7687?CMP=AFC-OP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=CG65_Schematics Member=Component J? SM04B-SURS-TF(LF)(SN)
+Added Member To Class: ClassName=CG65_Schematics Member=Component J? S3B-ZR-SM4A-TF(LF)(SN)
+Added Member To Class: ClassName=CG65_Schematics Member=Component J? SM02B-ZESS-TB(LF)(SN)

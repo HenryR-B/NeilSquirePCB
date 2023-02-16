@@ -1,0 +1,17 @@
+Change Physical Footprint: Designator=C1 Old Footprint=TH CAPACITOR New Footprint=TH CAPACITOR
+Change Physical Footprint: Designator=C2 Old Footprint=TH CAPACITOR New Footprint=TH CAPACITOR
+Change Physical Footprint: Designator=C3 Old Footprint=TH CAPACITOR New Footprint=TH CAPACITOR
+Change Physical Footprint: Designator=D1 Old Footprint=LED TH New Footprint=LED TH
+Change Physical Footprint: Designator=D2 Old Footprint=LED TH New Footprint=LED TH
+Change Physical Footprint: Designator=J1 Old Footprint=MJ-3502N New Footprint=MJ-3502N
+Change Physical Footprint: Designator=J2 Old Footprint=1x4 Standard Header New Footprint=1x4 Standard Header
+Change Physical Footprint: Designator=J3 Old Footprint=MOLEX_436500427 New Footprint=MOLEX_436500427
+Change Physical Footprint: Designator=J? Old Footprint=CONN_S3B-ZR-SM4A-TF(LF)(SN)_JST New Footprint=CONN_S3B-ZR-SM4A-TF(LF)(SN)_JST
+Change Physical Footprint: Designator=J? Old Footprint=SM04B-SURS-TF(LF)(SN) New Footprint=SM04B-SURS-TF(LF)(SN)
+Change Physical Footprint: Designator=J? Old Footprint=CONN_SM02B-ZESS-TB_JST New Footprint=CONN_SM02B-ZESS-TB_JST
+Change Physical Footprint: Designator=R1 Old Footprint=TH Resistor New Footprint=TH Resistor
+Change Physical Footprint: Designator=R2 Old Footprint=TH Resistor New Footprint=TH Resistor
+Change Physical Footprint: Designator=R3 Old Footprint=TH Resistor New Footprint=TH Resistor
+Change Physical Footprint: Designator=R4 Old Footprint=TH Resistor New Footprint=TH Resistor
+Change Physical Footprint: Designator=U1 Old Footprint=ESP32-PICO-KIT New Footprint=ESP32-PICO-KIT
+Change Physical Footprint: Designator=U2 Old Footprint=SEN-13879 New Footprint=SEN-13879
